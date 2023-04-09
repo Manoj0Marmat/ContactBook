@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactBookUI", "ContactBook\ContactBookUI.csproj", "{C285B3FE-A761-4777-A7F1-20E1F810C67A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactBookLibrary", "ContactBookLibrary\ContactBookLibrary.csproj", "{37E9399D-71AF-4F4F-ABB3-CD33C182EBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C285B3FE-A761-4777-A7F1-20E1F810C67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C285B3FE-A761-4777-A7F1-20E1F810C67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C285B3FE-A761-4777-A7F1-20E1F810C67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C285B3FE-A761-4777-A7F1-20E1F810C67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E9399D-71AF-4F4F-ABB3-CD33C182EBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E9399D-71AF-4F4F-ABB3-CD33C182EBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E9399D-71AF-4F4F-ABB3-CD33C182EBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E9399D-71AF-4F4F-ABB3-CD33C182EBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6A17661-317E-48C8-A949-74A8647A83EA}
+	EndGlobalSection
+EndGlobal

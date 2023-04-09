@@ -1,0 +1,15 @@
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.exe.config
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.exe
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.pdb
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\bin\Debug\ContactBookLibrary.dll
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\bin\Debug\ContactBookLibrary.pdb
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBookUI.csproj.AssemblyReference.cache
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBookUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.AddContactForm.resources
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.MainForm.resources
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.Properties.Resources.resources
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBookUI.csproj.GenerateResource.cache
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBookUI.csproj.CoreCompileInputs.cache
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBookUI.csproj.CopyComplete
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.exe
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.pdb

@@ -1,0 +1,6 @@
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBookLibrary\bin\Debug\ContactBookLibrary.dll
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBookLibrary\bin\Debug\ContactBookLibrary.pdb
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBookLibrary\obj\Debug\ContactBookLibrary.csproj.AssemblyReference.cache
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBookLibrary\obj\Debug\ContactBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBookLibrary\obj\Debug\ContactBookLibrary.dll
+C:\Users\ManojMarmat\source\repos\ContactBook\ContactBookLibrary\obj\Debug\ContactBookLibrary.pdb
